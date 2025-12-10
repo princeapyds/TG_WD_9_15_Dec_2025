@@ -1,1 +1,2 @@
-print("Hi kamini")
+a=10
+
